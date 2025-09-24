@@ -1,4 +1,4 @@
-#End-to-End Machine Learning Project: Credit Card Fraud Detection
+# End-to-End Machine Learning Project: Credit Card Fraud Detection
 This repository contains a complete, end-to-end machine learning project focused on detecting fraudulent credit card transactions using a Random Forest Classifier. The project showcases a full data science workflow, from data exploration and preprocessing to model training, evaluation, and hyperparameter tuning, with a strong emphasis on handling real-world challenges like severe class imbalance and preventing data leakage.
 
 1. Project Overview
